@@ -80,7 +80,7 @@ label_hasil = tk.Label(frame_hasil, text="",
                       font=("Arial", 16, "bold"),
                       fg="#84A885",
                       bg="#f0f0f0")
-label_hasil.pack(pady=5)
+label_hasil.pack(pady=5) 
 
 
 # Jalankan aplikasi
